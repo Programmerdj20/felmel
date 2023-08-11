@@ -2,7 +2,7 @@ import React from "react";
 
 const Cards = () => {
   return (
-    <div class="relative m-10 w-full max-w-xs overflow-hidden rounded-lg bg-white shadow-md">
+    <div class="relative m-10 w-full max-w-xs overflow-hidden rounded-lg bg-[#f0f2e9] shadow-md">
       <a href="#">
         <img
           class="h-60 rounded-t-lg object-cover"
