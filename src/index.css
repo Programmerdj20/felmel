@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Voga-Medium";
+  src: url("./fonts/Voga-Medium.otf") format("truetype");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
